@@ -4,7 +4,7 @@
 <img width="1754" alt="Screenshot 2024-10-13 at 9 32 42 AM" src="https://github.com/user-attachments/assets/f047bccb-64ad-4cf0-8a69-a1845be78e18">
 
 <br />
-## 🎯 Project Overview
+##🎯 Project Overview
 
 LLM.evals is a cutting-edge tool designed to evaluate the quality and relevance of requirements generated or extracted by Large Language Models (LLMs) in the context of Systems Engineering. Our project addresses the critical need for explainable and measurable AI outputs in the defense industry, focusing on requirements engineering.
 
