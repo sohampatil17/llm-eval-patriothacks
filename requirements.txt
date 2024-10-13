@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+requests
+requests_toolbelt
+scikit-learn
+transformers
+torch
+spacy
+rouge_score
+python-dotenv
+openai
